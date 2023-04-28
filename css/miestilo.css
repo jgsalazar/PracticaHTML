@@ -1,0 +1,66 @@
+body {
+    color: darkblue;
+    font-family: 'Tillana';
+    font-weight:400;
+    padding-left: 5px;
+    background-color: aliceblue;
+}
+
+#Tit01 {
+    color: darkslategrey;
+    font-weight: 800;
+    line-height: 0.5;
+}
+
+#Contenido{
+    line-height: 0;
+    padding-top: 10px;
+}
+
+#menu{
+    color: brown;
+    padding-left: 0px;
+    background-color: rgba(127, 255, 212, 0.378);
+    box-shadow: 5px;
+}
+
+h2{
+    border: 3px;
+    border-style: double;
+    border-color:indigo;
+    border-radius: 5px;
+    background-color: rgba(76, 0, 130, 0.579);
+    color: azure;
+    padding-left: 10px;
+}
+
+#ejH2{
+    border: 0px;
+    background-color: aliceblue;
+    color: darkblue;
+    padding-left: 0;
+}
+
+#Volver{
+    line-height: 0;
+    color: coral;
+}
+
+#codigo, #resultado{
+    padding-left: 50px;
+}
+
+h3{
+    margin-bottom: 10px;
+    border-top: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-style:groove;
+    color: darkslategrey;
+}
+
+#ejH3{
+    border: 0px;
+    color: darkblue;
+}
